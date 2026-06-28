@@ -25,7 +25,7 @@ i quited minecraft,anarchy community for that reason can't gave all ovaqreborn s
 8. ovaq reborn plus
 9. ovaq reborn PlusPlus
 10. ovaq reborn ++
-11. ovaq reborn + -i forgot version but maybe 1.7.9
+11. ovaq reborn + -i forgot last version maybe 1.7.9
 12. ovaq reborn nextgen
 13. ovaq reborn +-
 14. ovaq reborn v2
