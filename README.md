@@ -12,6 +12,8 @@ Releases and work may be delayed. For questions and requests, please open an iss
 ## my Info
 
 hi i'm original head OvaqReborn Developer.
+
+
 i quited minecraft,anarchy community for that reason can't gave all ovaqreborn srcs
 
 ## OvaqReborn Version List
@@ -33,4 +35,6 @@ i quited minecraft,anarchy community for that reason can't gave all ovaqreborn s
 16. OvaqRebornPlus-RV P
 
 you want contact me if so send friend request to this discord shousienaga_71054
-this most older ovaqreborn staff discord
+
+
+he is most older ovaqreborn staff on discord(littlebit idiot)
