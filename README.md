@@ -15,19 +15,19 @@ hi i'm original head OvaqReborn Developer.
 i quited minecraft,anarchy community for that reason can't gave all ovaqreborn srcs
 
 ## OvaqReborn Version List
-ovaq client
-ovaq plus
-ovaq recode
-ovaq reborn
-ovaq reborn+(1.20.4ver) → opensourceのsrcを利用されskidclientが現在4つ以上存在
-ovaq reborn+ 
-ovaq reborn Plus
-ovaq reborn plus
-ovaq reborn PlusPlus
-ovaq reborn ++
-ovaq reborn + -i forgot version but maybe 1.7.9
-ovaq reborn nextgen
-ovaq reborn +-
-ovaq reborn v2
-ovaq reborn R
-OvaqRebornPlus-RV P
+1. ovaq client
+2. ovaq plus
+3. ovaq recode
+4. ovaq reborn
+5. ovaq reborn+(1.20.4ver) → opensourceのsrcを利用されskidclientが現在4つ以上存在
+6. ovaq reborn+ 
+7. ovaq reborn Plus
+8. ovaq reborn plus
+9. ovaq reborn PlusPlus
+10. ovaq reborn ++
+11. ovaq reborn + -i forgot version but maybe 1.7.9
+12. ovaq reborn nextgen
+13. ovaq reborn +-
+14. ovaq reborn v2
+15. ovaq reborn R
+16. OvaqRebornPlus-RV P
