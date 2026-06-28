@@ -37,4 +37,4 @@ i quited minecraft,anarchy community for that reason can't gave all ovaqreborn s
 you want contact me if so send friend request to this discord shousienaga_71054
 
 
-he is most older ovaqreborn staff on discord(littlebit idiot)
+he is first ovaqreborn staff on discord(littlebit idiot)
