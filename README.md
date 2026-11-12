@@ -15,6 +15,7 @@ hi i'm original head OvaqReborn Developer.
 
 
 i quited minecraft,anarchy community for that reason can't gave all ovaqreborn srcs
+ovaqreborn系統のデコンパイルとかしたかったら勝手にしてください
 
 ## OvaqReborn Version List
 1. ovaq client
